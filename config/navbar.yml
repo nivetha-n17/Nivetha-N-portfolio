@@ -1,6 +1,6 @@
 NAVBAR:
   - label: "About"
+  - label: "Qualifications"
+  - label: "Awards and Courses"
   - label: "Resume"
-  - label: "Portfolio"
-  - label: "Blog"
   - label: "Contact"
