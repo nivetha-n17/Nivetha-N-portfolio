@@ -7,35 +7,25 @@ HEADER:
   label: "Show Contacts"
 
 USER:
-  role: "iOS Developer"
-  name: "Richard Hendricks"
-  username: "richardhendricks" # <-- This needs to be the same as your GitHub username
+  role: "Digital Marketing Enthusiast"
+  name: "Nivetha N"
+  username: "nivetha-n17" # <-- This needs to be the same as your GitHub username
   avatar: "config/assets/avatars/my-avatar.png"
 
 INFO:
   - label: "Email"
-    value: "richard@example.com"
+    value: "nivetha.1782@gmail.com"
     icon: "mail-outline"
   - label: "Phone"
-    value: "+1 (213) 352-2795"
+    value: "+91 8248698314"
     icon: "phone-portrait-outline"
   - label: "Birthday"
-    value: "June 26, 1996"
+    value: "May 17, 2003"
     icon: "calendar-outline"
   - label: "Location"
-    value: "Sacramento, California, USA"
+    value: "Rakkiyapalayam, Kangeyam road, Tirupur"
     icon: "location-outline"
 
 SOCIAL:
-  - icon: "logo-facebook"
-    url: "https://facebook.com/"
-  - icon: "logo-twitter"
-    url: "https://twitter.com/"
-  - icon: "logo-instagram"
-    url: "https://instagram.com/"
   - icon: "logo-linkedin"
-    url: "https://www.linkedin.com/"
-  - icon: "logo-github"
-    url: "https://github.com/ivansaul"
-  - icon: "logo-dribbble"
-    url: "https://dribbble.com/"
+    url: "linkedin.com/in/~nivetha-n"
