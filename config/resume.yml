@@ -14,15 +14,7 @@ EDUCATION:
     - period: "2021 — 2024"
       institution: "St Joseph’s College for Women, Tirupur"
       description: "BCOM - Passed out with 80%"
-    
-VOLUNTEERING:
-  enabled: true
-  label: "Experience"
-  items:
-    - period: "2023 — 2024"
-      position: "Citizen Consumer Club Secretary at St Joseph’s College for Women"
-      description: "Conducted various programmes and interactive sessions for students to raise consumer awareness and collaborated with academic social sectors."
-      
+  
 SKILLS:
   enabled: true
   display_progress_bars: true
